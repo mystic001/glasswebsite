@@ -215,7 +215,7 @@ width:100%;
 
 @media (max-width:768px){
 
-    .main{
+    main{
         display:flex;
     justify-content:center;
     align-items:center;
@@ -225,5 +225,15 @@ width:100%;
     .glass{
         display:flex;
         flex-direction:column;
+    }
+
+    .firstsection{
+        display:flex;
+        width:100%;
+    }
+
+    .Secondsection{
+        display:flex;
+        width:100%;
     }
   }
